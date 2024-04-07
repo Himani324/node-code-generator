@@ -1,3 +1,10 @@
+#Packages and Frameworks For generating CRUD APIs automatically for a provided database in Node.js:
+
+1.	LoopBack
+2.	Nest.js
+3.	Sails.js
+4.	AdonisJs
+
 # todo-list
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
